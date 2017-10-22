@@ -1,0 +1,2 @@
+input=["hello"]
+print(5 *(input))
