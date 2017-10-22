@@ -1,2 +1,2 @@
-input=["hello"]
-print(5 *(input))
+for input in  range (5):
+  print("Hello")
